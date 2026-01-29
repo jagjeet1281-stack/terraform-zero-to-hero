@@ -1,8 +1,3 @@
-provider "aws" {    
-    region = "us-west-2"    
-  
-}
-
 module "ec2_instance" {
   source = "./modules/ec2_instance"
 
