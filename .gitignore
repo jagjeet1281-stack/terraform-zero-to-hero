@@ -1,0 +1,6 @@
+# Terraform generated
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+
